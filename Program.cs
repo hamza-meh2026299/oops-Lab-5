@@ -22,7 +22,6 @@ namespace Lab_5
 
             SeaFood fish = new SeaFood("Fish ", 25.25M);
             fish.DisplayDetails();
-
             Pizza pizza = new Pizza("Pizza", 30.30M, 8);
             pizza.DisplayDetails();
 
