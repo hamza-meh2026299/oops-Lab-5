@@ -35,8 +35,15 @@ namespace Lab_5
             waiter.DisplayDetails();
 
             Console.Write("Manager: ");
-            Manager manager = new Manager("Ahmed", 500.30M);
+            Manager manager = new Manager("HAMZA", 500.30M);
             manager.DisplayDetails();
+            //  Github lab 
+            Console.WriteLine("enter the number 1");
+            int number 1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter the number 2");
+            int number 2 = Convert.ToInt32(Console.ReadLine());
+            
+            
         }
     }
 }
